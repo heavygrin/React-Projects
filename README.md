@@ -1,6 +1,6 @@
 # React Projects
 
-A couple of projects to get familiar with the React framework.
+A couple of projects using the React framework.
 
 ![Giphy](https://media.giphy.com/media/l0HUhhAtb86vYAHkY/giphy.gif)
 ![Giphy](https://media.giphy.com/media/26gN147Cy7zF1Mv7y/giphy.gif)
